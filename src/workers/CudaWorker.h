@@ -27,10 +27,10 @@
 #include <atomic>
 
 
+#include "cuda/cryptonight.h"
 #include "interfaces/IWorker.h"
 #include "net/Job.h"
 #include "net/JobResult.h"
-#include "nvidia/cryptonight.h"
 
 
 class Handle;

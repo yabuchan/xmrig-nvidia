@@ -27,7 +27,7 @@
 #include <vector>
 
 
-#include "nvidia/cryptonight.h"
+#include "cuda/cryptonight.h"
 
 
 class GpuThread

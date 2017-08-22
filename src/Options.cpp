@@ -35,9 +35,9 @@
 
 
 #include "Cpu.h"
+#include "cuda/cryptonight.h"
 #include "donate.h"
 #include "net/Url.h"
-#include "nvidia/cryptonight.h"
 #include "Options.h"
 #include "Platform.h"
 #include "version.h"

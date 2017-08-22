@@ -133,7 +133,7 @@ endif()
 
 
 include(cmake/flags.cmake)
-include(cmake/CUDA.cmake)
+include(cmake/stak.cmake)
 
 
 CHECK_INCLUDE_FILE (syslog.h HAVE_SYSLOG_H)

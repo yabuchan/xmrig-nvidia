@@ -31,7 +31,7 @@
 #include "version.h"
 
 #ifdef XMRIG_NVIDIA_PROJECT
-#   include "nvidia/cryptonight.h"
+#   include "cuda/cryptonight.h"
 #endif
 
 

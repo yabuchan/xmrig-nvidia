@@ -27,9 +27,9 @@
 
 
 #include "Cpu.h"
+#include "cuda/cryptonight.h"
 #include "log/Log.h"
 #include "net/Url.h"
-#include "nvidia/cryptonight.h"
 #include "Options.h"
 #include "Summary.h"
 #include "version.h"
